@@ -12,4 +12,5 @@
   - 🐍 Pandas
   - 🐍 Maplotlib
 
-![Davi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi44128552&layout=compact)
+![Davi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi44128552&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=f4c2c2&icon_color=79ff97&border_color=ffffff)
+
