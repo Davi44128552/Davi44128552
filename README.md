@@ -14,10 +14,3 @@
 
 ![Davi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi44128552&layout=compact&theme=tokyonight&hide_border=true)
 
-## Linguagens em Badges
-
-![Python](https://img.shields.io/badge/%20-Python-blue?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/%20-Java-red?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/%20-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-
-
