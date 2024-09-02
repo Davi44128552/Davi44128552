@@ -11,3 +11,5 @@
   - ☕ Java Database Connectivity (JDBC) 
   - 🐍 Pandas
   - 🐍 Maplotlib
+
+![Davi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi44128552&layout=compact)
