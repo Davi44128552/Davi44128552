@@ -5,7 +5,12 @@
 -->
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC).
-  - 📚 Cursando as seguintes cadeiras: https://pacific-tumble-e0f.notion.site/Semestre-2024-1-dbe48a04fd9f4ce0b7dc080363b2f16a?pvs=4   
+  - 📚 Cursando as seguintes cadeiras:
+      - Fundamentos de Banco de Dados
+      - Construção e Análise de Algoritmos
+      - Computação Gráfica I
+      - Linguagens de Programação
+      - Métodos Numéricos I   
 - 💻 Interessado em Desenvolvimento de Software e Data Science.
 - 🧑‍💻 Atualmente estudando:
   - ☕ Java Database Connectivity (JDBC) 
