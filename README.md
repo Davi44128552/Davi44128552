@@ -9,7 +9,6 @@
       - Métodos Numéricos I   
 - 💻 Interessado em Desenvolvimento de Software e Data Science.
 - 🧑‍💻 Atualmente estudando:
-  - ☕ Java Database Connectivity (JDBC) 
   - 🐍 Pandas
   - 🐍 Matplotlib
 
