@@ -2,11 +2,11 @@
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC).
   - 📚 Cursando as seguintes cadeiras:
-      - Fundamentos de Banco de Dados
-      - Construção e Análise de Algoritmos
-      - Computação Gráfica I
-      - Linguagens de Programação
-      - Métodos Numéricos I   
+      - Redes de Computadores I
+      - Lógica para Ciência da Computação
+      - Visualização de Dados
+      - Engenharia de Software I
+      - Métodos Numéricos II   
 - 💻 Interessado em Desenvolvimento de Software e Data Science.
 - 🧑‍💻 Atualmente estudando:
   - 🐍 Pandas
