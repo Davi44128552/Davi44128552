@@ -2,14 +2,14 @@
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC).
   - 📚 Cursando as seguintes cadeiras:
-      - Redes de Computadores I
-      - Lógica para Ciência da Computação
-      - Visualização de Dados
-      - Engenharia de Software I
-      - Métodos Numéricos II   
+      - Inteligência Aritifical
+      - Sistemas Operacionais
+      - Autômatos e Linguagens Formais
+      - Análise e Projeto de Sistemas
+      - Prototipação de Jogos Tridimensionais  
 - 💻 Interessado em Desenvolvimento de Software e Data Science.
 - 🧑‍💻 Atualmente estudando:
-  - 🐍 Pandas
+  - 🤵🏻 Jenkins  
   - 🐍 Matplotlib
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
