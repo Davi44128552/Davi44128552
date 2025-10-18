@@ -7,7 +7,7 @@
       - Autômatos e Linguagens Formais
       - Análise e Projeto de Sistemas
       - Prototipação de Jogos Tridimensionais  
-- 💻 Interessado em Desenvolvimento de Software e Data Science.
+- 💻 Interessado em DevOps e Data Science.
 - 🧑‍💻 Atualmente estudando:
   - 🤵🏻 Jenkins  
   - 🐍 Matplotlib
