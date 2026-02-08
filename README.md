@@ -18,5 +18,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Davi44128552&show_icons=true&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Davi44128552&layout=compact&theme=tokyonight)
 
