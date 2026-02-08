@@ -17,5 +17,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi44128552&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi44128552&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davi44128552&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
 
